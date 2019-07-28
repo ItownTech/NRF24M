@@ -1,0 +1,2 @@
+# NRF24M
+ 基于SI24R1 NRF24l01+ ATMEGA328P的低功耗智能化模块
